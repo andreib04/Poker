@@ -5,4 +5,4 @@
 
 -Este folosit un vector de frecventa pentru a determina cate numere sunt de acelasi tip, iar apoi o functie converteste datele in formatii.
 
-![Alt text]((https://github.com/andreib04/Poker/assets/114991182/ba4514c7-aab5-41f8-833b-a599a1296fec)
+![Alt text](https://github.com/andreib04/Poker/assets/114991182/ba4514c7-aab5-41f8-833b-a599a1296fec)
